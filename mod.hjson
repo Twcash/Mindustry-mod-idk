@@ -1,8 +1,8 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "mod-idk"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "mod-idk"
 
 #your name
 author: "You"
